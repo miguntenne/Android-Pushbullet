@@ -1,11 +1,11 @@
 Android-Pushbullet
 ==================
 
-An Android library for Pushbullet pushes.
+This is a simple Android library which uses Pushbullet API to push messages to Pushbullet enable device such as 
+
+Hell World
+=
 
 
-dsdasdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsdsd
-sdasdas
-sadasdasdad
 
 
